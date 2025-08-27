@@ -55,8 +55,8 @@ Follow this steps when executing this project
 
 ---
 Here is the expected output for step 1:
-![Expected output for step 1]
-(../replicaset/outputs/terminating.png)
+
+![Expected output for step 1](../replicaset/outputs/terminating.png)
 > As you can see, the custom pod created is already terminating as we exceed our desired replica
 ---
 
