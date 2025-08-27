@@ -26,7 +26,7 @@ Follow this steps when executing this project
     # README.md       - contains execution instructions
     ```
 
-2.  Build and validate the pod using by executing the following commands
+2.  Build and validate the pod by executing the following commands
 
     ```bash
     # create pod
@@ -36,7 +36,7 @@ Follow this steps when executing this project
     kubectl get pod
 
     # to see more details about the pod we just created
-    kubernetes describe pod nginx
+    kubectl describe pod nginx
     ```
 
 ## :bookmark_tabs: Key Takeaways
