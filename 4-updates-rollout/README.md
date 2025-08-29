@@ -157,4 +157,4 @@ Here is the expected output for the commands:
 
 - Roll back to previous stable versions to ensure reliability
 
-This project highlights the importance of Deployments in Kubernetes as a powerful abstraction for managing workloads. Deployments not only simplify Pod and ReplicaSet management but also provide advanced capabilities like rolling updates, rollback strategies, and scaling. By practicing with this project, learners strengthen their understanding of reliable, production-ready workload management in Kubernetes, which is essential for building robust and scalable cloud-native applications.
+This repository provides hands-on practice in managing Kubernetes Deployments, a critical resource for maintaining applications in containerized environments. By following the steps, learners gain practical knowledge of how deployments, ReplicaSets, and pods interact in Kubernetes. The repository serves as a solid foundation for understanding declarative configuration, scaling applications, and validating deployment health in real-world DevOps workflows.
