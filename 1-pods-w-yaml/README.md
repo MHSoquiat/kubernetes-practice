@@ -18,7 +18,7 @@ Follow this steps when executing this project
     git clone https://github.com/MHSoquiat/kubernetes-practice.git
 
     # change directory
-    cd kubernetes-practice/pods-w-yaml
+    cd kubernetes-practice/1-pods-w-yaml
 
     # list and check the files
     ls

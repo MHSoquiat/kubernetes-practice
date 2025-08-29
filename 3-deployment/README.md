@@ -18,7 +18,7 @@ Follow this steps when executing this project
     git clone https://github.com/MHSoquiat/kubernetes-practice.git
 
     # change directory
-    cd kubernetes-practice/deployment
+    cd kubernetes-practice/3-deployment
 
     # list and check the files
     ls

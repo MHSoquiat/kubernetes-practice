@@ -18,7 +18,7 @@ Follow this steps when executing this project
     git clone https://github.com/MHSoquiat/kubernetes-practice.git
 
     # change directory
-    cd kubernetes-practice/replicaset
+    cd kubernetes-practice/2-replicaset
 
     # list and check the files
     ls
@@ -56,7 +56,7 @@ Follow this steps when executing this project
 ---
 Here is the expected output for step 1:
 
-![Expected output for step 1](../replicaset/outputs/terminating.png)
+![Expected output for step 1](../2-replicaset/outputs/terminating.png)
 > As you can see, the custom pod created is already terminating as we exceed our desired replica
 ---
 
