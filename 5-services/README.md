@@ -1,8 +1,8 @@
-# Deployment
+# NodePort Service
 
 ## :pushpin: Description
 
-This folder contains coding demonstration and exercises on how to create a Deployment using a Kubernetes configuration file (YAML)
+This folder contains coding demonstration and exercises on how to create a NodePort Service using a Kubernetes configuration file (YAML)
 
 ## :rocket: Execution
 
